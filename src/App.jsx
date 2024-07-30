@@ -8,7 +8,7 @@ function App() {
       <header>
         <h2 className="text-3xl font-bold">Header</h2>
       </header>
-
+    
       <main>
         <h1 className="text-3xl font-bold underline">React Starter</h1>
       </main>
